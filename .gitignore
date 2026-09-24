@@ -1,0 +1,9 @@
+# Exclude BLS raw datasets as required by CCT assignment brief (Do NOT upload data)
+*.xlsx
+*.xls
+*.csv
+*.zip
+oesm23all/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
